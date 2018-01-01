@@ -14,10 +14,10 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [video]:  ./run_best.mp4 "Autonomous Mode"
-[image1]: ./examples/center.png "Center Camera Image"
-[image2]: ./examples/left.png "Left Camera Image"
-[image3]: ./examples/right.png "Right Camera Image"
-[image4]: ./examples/center_flip.png "Flipped Image"
+[image1]: ./examples/center.jpg "Center Camera Image"
+[image2]: ./examples/left.jpg "Left Camera Image"
+[image3]: ./examples/right.jpg "Right Camera Image"
+[image4]: ./examples/center_flip.jpg "Flipped Image"
 
 ## Executive Summery 
 
